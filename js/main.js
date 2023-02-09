@@ -117,7 +117,7 @@ function scrollActive() {
 window.addEventListener("scroll", scrollActive);
 
 /*==================== DARK LIGHT THEME ====================*/
-const themeButton = document.getElementById("itim");
+const themeButton = document.getElementById("Itim");
 const darkTheme = "dark-theme";
 const iconTheme = "ri-sun-line";
 
